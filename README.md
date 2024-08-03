@@ -1,7 +1,7 @@
 # Hi! Welcome to my Github :)
 
 ## About Me
-- I am currently working as a Software Engineer at PwC
+- I am a Software Engineer at PwC
 - I graduated from Rutgers University with a degree in Computer Science and a background in Economics
 - I am currently learning about Reccomended Systems and creating full stack applications
 
